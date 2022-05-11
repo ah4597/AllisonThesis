@@ -1,0 +1,6 @@
+Article #331064; SN# - lccn/sn86092536/1916-06-08 encountered error: cannot unpack non-iterable NoneType object
+Article #339541; SN# - lccn/sn83045555/1906-02-17 encountered error: HTTP Error 404: NOT FOUND
+Article #354859; SN# - lccn/sn85034374/1906-12-01 encountered error: HTTP Error 404: NOT FOUND
+Article #361029; SN# - lccn/sn83045555/1906-06-01 encountered error: HTTP Error 404: NOT FOUND
+Article #376643; SN# - lccn/sn83045555/1893-11-20 encountered error: HTTP Error 404: NOT FOUND
+Article #388692; SN# - lccn/sn84038105/1863-12-18 encountered error: HTTP Error 502: Bad Gateway

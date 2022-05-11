@@ -1,0 +1,2 @@
+Article #376643; SN# - lccn/sn83045555/1893-11-20 encountered error: HTTP Error 404: NOT FOUND
+Article #388692; SN# - lccn/sn84038105/1863-12-18 encountered error: HTTP Error 502: Bad Gateway

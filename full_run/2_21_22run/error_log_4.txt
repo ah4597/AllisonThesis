@@ -1,0 +1,20 @@
+Article #191479; SN# - lccn/sn86063782/1919-06-12 encountered error: HTTP Error 404: NOT FOUND
+Article #191480; SN# - lccn/sn86063782/1919-06-12 encountered error: HTTP Error 404: NOT FOUND
+Article #213718; SN# - lccn/sn84031081/1907-03-03 encountered error: HTTP Error 404: NOT FOUND
+Article #222171; SN# - lccn/sn87065610/1912-08-03 encountered error: local variable 'match' referenced before assignment
+Article #235301; SN# - lccn/sn86091096/1904-06-10 encountered error: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+Article #240365; SN# - lccn/sn86063782/1919-06-12 encountered error: HTTP Error 404: NOT FOUND
+Article #253615; SN# - lccn/sn86069457/1901-12-19 encountered error: HTTP Error 404: NOT FOUND
+Article #253616; SN# - lccn/sn86069457/1901-12-19 encountered error: HTTP Error 404: NOT FOUND
+Article #257414; SN# - lccn/sn83025733/1882-09-01 encountered error: HTTP Error 404: NOT FOUND
+Article #266404; SN# - lccn/sn86069457/1895-05-30 encountered error: HTTP Error 404: NOT FOUND
+Article #299208; SN# - lccn/sn83045555/1906-02-17 encountered error: HTTP Error 404: NOT FOUND
+Article #311945; SN# - lccn/sn86063782/1919-06-26 encountered error: HTTP Error 404: NOT FOUND
+Article #311946; SN# - lccn/sn86063782/1919-06-26 encountered error: HTTP Error 404: NOT FOUND
+Article #316956; SN# - lccn/sn89058364/1918-10-03 encountered error: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+Article #331064; SN# - lccn/sn86092536/1916-06-08 encountered error: cannot unpack non-iterable NoneType object
+Article #339541; SN# - lccn/sn83045555/1906-02-17 encountered error: HTTP Error 404: NOT FOUND
+Article #354859; SN# - lccn/sn85034374/1906-12-01 encountered error: HTTP Error 404: NOT FOUND
+Article #361029; SN# - lccn/sn83045555/1906-06-01 encountered error: HTTP Error 404: NOT FOUND
+Article #376643; SN# - lccn/sn83045555/1893-11-20 encountered error: HTTP Error 404: NOT FOUND
+Article #388692; SN# - lccn/sn84038105/1863-12-18 encountered error: HTTP Error 502: Bad Gateway
